@@ -11,6 +11,7 @@ Just a simple mic mute tool I made for Linux because I needed one.
 # How to use
 ## * run the commands below:
 ```
+sudo apt install alsa-utils
 git clone https://github.com/no1se2/no1seMute---MicMute-for-linux
 pip3 install -r requirements.txt
 python3 no1semute.py
